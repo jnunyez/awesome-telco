@@ -236,7 +236,7 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 
 ### remote control
 
-- [OpenSTF](https://openstf.io) - Enable remote control of phone over ADB over an HTML5 interfaces. 
+- [DeviceFarmer](https://github.com/DeviceFarmer/stf) - Enable remote control of phone over ADB over an HTML5 interfaces. 
 - [Vyzor](http://vysor.io) - A window to your Android, streaming Android UI through ADB in a Google Chrome Browser app.
 
 ### GPS, Time
