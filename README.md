@@ -289,7 +289,8 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 
 ## Docs
 
-- [Wireless frequency bands](http://niviuk.free.fr/) - Come for the frequency calculator, stay for the cellular other resources.
+- [Mobile Network Operators](https://halberdbastion.com/intelligence/mobile-networks/filter?f%5B0%5D=4g_bands%3A272) - Database of mobile network operators accross the globe.
+- [Wireless frequency bands](https://www.sqimway.com/) - Come for the frequency calculator, stay for the cellular other resources.
 - [ShareTechNote](http://www.sharetechnote.com/) - an impressive repo of knowledge for the cellular telco world.
 - [3GPP specs](http://www.3gpp.org/ftp/Specs/html-info/36-series.htm) - 3GPP specs. 
 - [CNTT](https://cntt-n.github.io/CNTT/) - set of reference specifications for NFVI coming from several telcos (Vodafone, Telstra, Orange mentionned as authors).
