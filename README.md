@@ -35,6 +35,8 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 - [CoIMS_wiki](https://github.com/herlesupreeth/CoIMS_Wiki) - Guide for overriding IMS settings to force enable VoLTE/VoWiFi using Carrier Privileges, with its companion app on the Google Play store [CoIMS](https://play.google.com/store/apps/details?id=com.sherle.coims).
 - [HelloSTK2](https://github.com/mrlnc/HelloSTK2) - My 2021's guide to HelloSTK [...] but maybe this "guide" helps you to build and install SIM-Toolkit applets. 
 - [Generic-eUICC-Test-Profile](https://github.com/GSMATerminals/Generic-eUICC-Test-Profile-for-Device-Testing-Public) - [...] to normalize the way in which Test Profiles for embedded UICCs will be available, and configurable, for industry standardised testing.
+- [SUPI with pysim](https://gist.github.com/mrlnc/01d6300f1904f154d969ff205136b753) - Notes on enabling SUPI with pysim.
+
 
 ## UE
 
@@ -117,6 +119,7 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 - [III-5GC-Free-Trial](https://github.com/III-5GC/III-5GC-Free-Trial) - The basic III-5GC is a free trial for lab research, prototype product testing and simple 5G end-to-end demonstration.
 - [OAI 5GC](https://gitlab.eurecom.fr/oai/cn5g) - Functional 5G-SA core with SMF, AMF, UPF, and NRF services.
 - [upf-bpf](https://github.com/navarrothiago/upf-bpf) - An open source C++ library powered by eBPF/XDP for user plane in mobile core network (5G/LTE).
+- [5G_CN](https://github.com/wnlUc3m/5G_CN) - This is a basic implementation of a 5G Core Network supporting 4G LTE control signalling.
 
 
 ### 4G
