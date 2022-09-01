@@ -12,6 +12,7 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 - [Interco: IMS, SBC, Diameter](#interco)
 - [Protocols: Libraries, Frameworks](#Protocols)
 - [Infrastructure: SDN and NFV management software](#Infrastructure)
+- [Orchestration: Automation and integration software](#Orchestration)
 - [Lab: tooling for telco labs](#Lab)
 - [Testing : TTCN3 and others testing frameworks](#Testing)
 - [Security: Papers and talks around telco security](#Security)
@@ -132,6 +133,7 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 - [5G_CN](https://github.com/wnlUc3m/5G_CN) - This is a basic implementation of a 5G Core Network supporting 4G LTE control signalling.
 - [openupf](https://github.com/5GOpenUPF/openupf) - A 3GPP R16 compliant open source 5G core UPF (User Plane Function).
 - [upf-xdp](https://github.com/801room/upf-xdp) -  it shows the possibility of using xdp to implement 5g upf.
+- [SD-Core](https://opennetworking.org/sd-core/) - A 4G/5G core that is based on [OMEC](https://www.opennetworking.org/omec/) for 4G, and a fork of [Open5GS](https://open5gs.org) for 5G. Has implementations for AMF,SMF,PCF,UDM,AUSF,NSSF and a P4 based UPF. [github](https://github.com/omec-project/amf)
 
 
 ### 4G
@@ -204,6 +206,8 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 - [go-pfcp](https://github.com/wmnsk/go-pfcp) - PFCP(Packet Forwarding Control Protocol) is a signaling protocol used in mobile networking infrastructure(LTE EPC, 5GC) to realize CUPS architecture(Control and User Plane Separation, not a printing system) defined in 3GPP TS29.244.
 - [gtplib](https://github.com/travelping/gtplib) - Erlang GTPv1/GTPv2 library.
 - [gtpv2](https://github.com/blorticus/gtpv2) - GPRS Tunneling Protocol Library for golang.
+- [scapy-gtp](https://github.com/secdev/scapy/blob/master/scapy/contrib/gtp.py) - Scapy (A interactive packet manipulation program) GTP layer. Spec: 3GPP TS 29.060 and 3GPP TS 29.274. Some IEs: 3GPP TS 24.008.
+- [gtp_dialer](https://github.com/fasferraz/gtp_dialer) - GTPv1/GTPv2 Dialer
 
 ### SCTP
 
@@ -211,6 +215,7 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 - [usrsctp](https://github.com/sctplab/usrsctp) - This is a userland SCTP stack supporting FreeBSD, Linux, Mac OS X and Windows.
 - [PySCTP](https://github.com/P1sec/pysctp) - PySCTP - SCTP bindings for Python.
 - [MTS: Multiprotocol Test Tool](https://github.com/ericsson-mts/mts) - MTS (Multi-protocol Test Suite) is a multi-protocol testing tool specially designed for telecom IP-based architectures (see above "Features" section for more details).
+- [scapy-sctp](https://github.com/secdev/scapy/blob/master/scapy/layers/sctp.py) - Scapy (A interactive packet manipulation program) SCTP layer.
 
 ### VoWiFi/VoLTE
 
@@ -271,6 +276,10 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 
 - [SNAPS-boot](https://github.com/cablelabs/snaps-boot) - Baremetal cluster management solution to prepare for a Openstack or k8s deployment from Cablelabs.
 - [MAAS](https://maas.io) - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data center into a bare-metal cloud - Metal As A Service.
+
+## Orchestration
+
+- [Zato](https://zato.io/en/industry/telecom/index.html) - Python-based, open-source platform for orchestration, automation and integrations of APIs or hardware assets ([GitHub](https://github.com/zatosource/zato))
 
 ## Lab
 
@@ -351,6 +360,7 @@ Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific pr
 - [tool3rd](https://github.com/proj3rd/tool3rd) - Assistant for 3GPP telecommunication development
 - [3gpp-citations](https://github.com/martisak/3gpp-citations) - 3GPP Bibtex entry generator
 - [3GPP-overall-architecture](https://github.com/nickel0/3GPP-Overall-Architecture) - very detailed, high-res PDF of the overall 3GPP architecture
+- [Introduce to 5GC](https://github.com/ianchen0119/Introduce-to-5GC) - 5GC & Cloud Native handbook written in traditaional chinese
 
 ## Slides
 
